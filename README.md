@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anmol2407
-- 👀 I’m interested in data science and web development with special emphasis on python and html
+- 👀 I’m interested in data science and web development. My techstack includes python, html, css and i am currently learning javascript
 - 🌱 I’m currently learning python and it's different frameworks used.
 - 💞️ I’m looking to collaborate on projects, assignments pertaining to the data science and web development field.
 - 📫 You can reach me at https://www.linkedin.com/in/anmol-atrey-2246b323b/
